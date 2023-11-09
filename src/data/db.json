@@ -1,0 +1,28 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "comments": "Very nice",
+      "rating": 5,
+      "brewery_id": "9c5a66c8-cc13-416f-a5d9-0a769c87d318"
+    },
+    {
+      "id": 2,
+      "comments": "Very nice",
+      "rating": 5,
+      "brewery_id": "1"
+    },
+    {
+      "rating": "4",
+      "comments": "dhf",
+      "brewery_id": "9c5a66c8-cc13-416f-a5d9-0a769c87d318",
+      "id": 3
+    },
+    {
+      "rating": "3",
+      "comments": "fjdh",
+      "brewery_id": "9c5a66c8-cc13-416f-a5d9-0a769c87d318",
+      "id": 4
+    }
+  ]
+}
