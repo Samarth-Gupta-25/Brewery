@@ -32,14 +32,15 @@ function App() {
   return (
     <div>
       {/* <h1>jknfjewnf</h1> */}
-      <Routes>
-        <Route path="/" element={<Ho/>} />
-        <Route path="dashboard" element={<Home brewery={brewery}/>}/>
-        <Route path="login" element={<LogIn/>}/>
-        <Route path="signin" element={<SignUp/>}/>
-        <Route path="dashboard/singlecard/:id" element={<SingleCard brewery={brewery}/>}/>
-        <Route path="dashboard/singlecard/:id/reviews" element={<Reviews/>} />
-      </Routes>
+    <h1>I am loaded</h1>
+      // <Routes>
+      //   <Route path="/" element={<Ho/>} />
+      //   <Route path="dashboard" element={<Home brewery={brewery}/>}/>
+      //   <Route path="login" element={<LogIn/>}/>
+      //   <Route path="signin" element={<SignUp/>}/>
+      //   <Route path="dashboard/singlecard/:id" element={<SingleCard brewery={brewery}/>}/>
+      //   <Route path="dashboard/singlecard/:id/reviews" element={<Reviews/>} />
+      // </Routes>
       {/* <Home brewery={brewery}/> */}
       {/* <LogIn/> */}
       {/* <SignUp/> */}
